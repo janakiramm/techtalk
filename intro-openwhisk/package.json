@@ -1,0 +1,15 @@
+{
+  "name": "sendgrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "dependencies": {
+    "uuid": "3.0.1",
+    "sendgrid": "4.7.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

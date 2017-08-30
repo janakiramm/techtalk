@@ -1,0 +1,6 @@
+{
+  "from": "FROM_EMAIL_ID",
+  "to" : "TO_EMAIL_ID",
+  "subject" : "Alert from OpenWhisk",
+  "content" : "Hello Serverless"
+}
