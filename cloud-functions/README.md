@@ -67,6 +67,7 @@ bx wsk activation result <ID>
 ```
 
 ## Cleanup
+```
 bx cf delete-service-key salesdb myapp
 bx service delete salesdb
 bx wsk trigger delete data-inserted-trigger
@@ -76,4 +77,4 @@ bx wsk rule delete log-order
 bx wsk action delete high-value-order
 bx wsk action delete high-value-order-sequence
 bx wsk rule delete log-high-value-order
-
+```
